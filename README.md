@@ -1,4 +1,12 @@
-### Hi there 👋
+## Dr. Kerem Koseoglu
+
+I am a freelance [software architect](https://www.sap-press.com/design-patterns-in-abap-objects_4277/), coding since 1988 and pro since 2000. 
+
+I mostly code in ABAP, Python and JavaScript nowadays.
+
+I have [published books](https://keremkoseoglu.com/books/) on programming and [give trainings](https://keremkoseoglu.com/seminars/teaching-software/) too. 
+
+You can check [my detailed profile](https://keremkoseoglu.com/software/) or stalk me on [social media](https://keremkoseoglu.com).
 
 <!--
 **keremkoseoglu/keremkoseoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
