@@ -48,18 +48,15 @@ Repository Index
   </tr>
   <tr>
     <td>Gaming</td>
-    <td>
-      <ul>
-        <li><a href="https://github.com/keremkoseoglu/Sudoku-Solver">Sudoku Solver</a> <sup>(Brute force solver)</sup><br></li>
-        <li><a href="https://github.com/keremkoseoglu/TicTacToe-AI">TicTacToe AI</a> <sup>(Plays against itself)</sup></li>
-      </ul>
-    </td>
+    <td>-</td>
     <td>
       Cozcuk (<a href="https://github.com/keremkoseoglu/cozcuk-generator">Generator</a>, <a href="https://github.com/keremkoseoglu/cozcuk-gui">GUI</a>, <a href="https://github.com/keremkoseoglu/cozcuk-server">Server</a>), 
       <a href="https://github.com/keremkoseoglu/Fart-O-Meter">Fart-o-Meter</a>,
       <a href="https://github.com/keremkoseoglu/MasterMindSolver">MasterMindSolver</a>, 
       <a href="https://github.com/keremkoseoglu/NumberXX">Number XX</a>, 
       <a href="https://github.com/keremkoseoglu/Numbrella">Numbrella</a>, 
+      <a href="https://github.com/keremkoseoglu/Sudoku-Solver">Sudoku Solver</a>, 
+      <a href="https://github.com/keremkoseoglu/TicTacToe-AI">TicTacToe AI</a>, 
       <a href="https://github.com/keremkoseoglu/YoMama">YoMama</a>
     </td>
   </tr>
