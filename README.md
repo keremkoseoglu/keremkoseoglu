@@ -1,8 +1,5 @@
 ## Dr. Kerem Koseoglu
 
-About
-------
-
 I am a freelance [software architect](https://www.sap-press.com/design-patterns-in-abap-objects_4277/), coding since 1988 and pro since 2000. 
 
 I mostly code in ABAP, Python and JavaScript nowadays.
