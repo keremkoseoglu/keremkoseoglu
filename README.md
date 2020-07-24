@@ -23,9 +23,7 @@ Repository Index
   <tr>
     <td>Corporate</td>
     <td>
-      <ul>
-        <li><a href="https://github.com/keremkoseoglu/databus">Databus</a> <sup>(Async data integration platform)</sup></li>
-      </ul>
+      ⭐️ <a href="https://github.com/keremkoseoglu/databus">Databus</a> <sup>(Async data integration platform)</sup>
     </td>
     <td>
       <a href="https://github.com/keremkoseoglu/Amon">Amon</a>, 
@@ -37,9 +35,7 @@ Repository Index
   <tr>
     <td>Encryption</td>
     <td>
-      <ul>
-        <li><a href="https://github.com/keremkoseoglu/sagkutana">Sagkutana</a> <sup>(Basic encryption)</sup></li>
-      </ul>
+      ⭐️ <a href="https://github.com/keremkoseoglu/sagkutana">Sagkutana</a> <sup>(Basic encryption)</sup>
     </td>
     <td>
       <a href="https://github.com/keremkoseoglu/Dialector">Dialector</a>, 
@@ -63,10 +59,8 @@ Repository Index
   <tr>
     <td>Jira</td>
     <td>
-      <ul>
-        <li><a href="https://github.com/keremkoseoglu/Jira2Notion">Jira2Notion</a> <sup>(Jira - Notion integration)</sup></li>
-        <li><a href="https://github.com/keremkoseoglu/Jiraffe">Jiraffe</a> <sup>(Jira filter notifier)</sup></li>
-      </ul>
+      ⭐️ <a href="https://github.com/keremkoseoglu/Jira2Notion">Jira2Notion</a> <sup>(Jira - Notion integration)</sup><br>
+      ⭐️ <a href="https://github.com/keremkoseoglu/Jiraffe">Jiraffe</a> <sup>(Jira filter notifier)</sup>
     </td>
     <td>
       <a href="https://github.com/keremkoseoglu/Jira2Evernote">Jira2Evernote</a>, 
@@ -78,22 +72,22 @@ Repository Index
   <tr>
     <td>Library</td>
     <td>
-      <ul>
-        <li><a href="https://github.com/keremkoseoglu/ABAP-Library">ABAP Library</a> <sup>(Useful ABAP classes)</sup></li>
-        <li><a href="https://github.com/keremkoseoglu/vibhaga">Vibhaga</a> <sup>(Dynamic Python module loader)</sup></li>
-      </ul>
+        ⭐️ <a href="https://github.com/keremkoseoglu/ABAP-Library">ABAP Library</a> <sup>(Useful ABAP classes)</sup><br>
+        ⭐️ <a href="https://github.com/keremkoseoglu/vibhaga">Vibhaga</a> <sup>(Dynamic Python module loader)</sup>
     </td>
-    <td><a href="https://github.com/keremkoseoglu/AppleScript-Library">AppleScript Library</a>, <a href="https://github.com/keremkoseoglu/helloku">Helloku</a>, <a href="https://github.com/keremkoseoglu/Python-Library">Python Library</a>, <a href="https://github.com/keremkoseoglu/Swift-Library">Swift Library</a>
+    <td>
+      <a href="https://github.com/keremkoseoglu/AppleScript-Library">AppleScript Library</a>, 
+      <a href="https://github.com/keremkoseoglu/helloku">Helloku</a>, 
+      <a href="https://github.com/keremkoseoglu/Python-Library">Python Library</a>, 
+      <a href="https://github.com/keremkoseoglu/Swift-Library">Swift Library</a>
     </td>
   </tr>
   <tr>
     <td>Music</td>
     <td>
-      <ul>
-        <li><a href="https://github.com/keremkoseoglu/Guitar-Training-Remote">Guitar Training Remote</a> <sup>(Random guitar exercises)</sup></li>
-        <li><a href="https://github.com/keremkoseoglu/igigi">Igigi</a> <sup>(Gig helper app)</sup></li>
-        <li><a href="https://github.com/keremkoseoglu/Setlist-Generator">SetList Generator</a> <sup>(Gig setlist creation)</sup></li>
-      </ul>
+      ⭐️ <a href="https://github.com/keremkoseoglu/Guitar-Training-Remote">Guitar Training Remote</a> <sup>(Random guitar exercises)</sup><br>
+      ⭐️ <a href="https://github.com/keremkoseoglu/igigi">Igigi</a> <sup>(Gig helper app)</sup><br>
+      ⭐️ <a href="https://github.com/keremkoseoglu/Setlist-Generator">SetList Generator</a> <sup>(Gig setlist creation)</sup>
     </td>
     <td>
       <a href="https://github.com/keremkoseoglu/JTranspose">JTranspose</a>
@@ -102,9 +96,8 @@ Repository Index
   <tr>
     <td>Personal</td>
     <td>
-      <ul>
-        <li><a href="https://github.com/keremkoseoglu/Kifu">Kifu</a> <sup>(Timesheet & invoice)</sup></li>
-        <li><a href="https://github.com/keremkoseoglu/kutapada">Kutapada</a> <sup>(Password manager)</sup></li>
+      ⭐️ <a href="https://github.com/keremkoseoglu/Kifu">Kifu</a> <sup>(Timesheet & invoice)</sup><br>
+      ⭐️ <a href="https://github.com/keremkoseoglu/kutapada">Kutapada</a> <sup>(Password manager)</sup>
       </ul>
     </td>
     <td>
@@ -115,9 +108,7 @@ Repository Index
   <tr>
     <td>SAP</td>
     <td>
-      <ul>
-        <li><a href="https://github.com/keremkoseoglu/Joseki">Joseki</a> <sup>(ABAP code generator)</sup></li>
-      </ul>
+      ⭐️ <a href="https://github.com/keremkoseoglu/Joseki">Joseki</a> <sup>(ABAP code generator)</sup>
     </td>
     <td>
       <a href="https://github.com/keremkoseoglu/ama">Ama</a>, 
@@ -133,9 +124,7 @@ Repository Index
   <tr>
     <td>Spiritual</td>
     <td>
-      <ul>
-        <li><a href="https://github.com/keremkoseoglu/yogaflow">YogaFlow</a> <sup>(Yoga flow generator)</sup></li>
-      </ul>
+      ⭐️ <a href="https://github.com/keremkoseoglu/yogaflow">YogaFlow</a> <sup>(Yoga flow generator)</sup>
     </td>
     <td>
       <a href="https://github.com/keremkoseoglu/Hooly-Search">Hooly Search</a>, 
