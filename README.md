@@ -69,7 +69,6 @@ Repository Index
   <tr>
     <td>Library</td>
     <td>
-        ⭐️ <a href="https://github.com/keremkoseoglu/ABAP-Library">ABAP Library</a> <sub><sup>- Useful ABAP classes</sup></sub><br>
         ⭐️ <a href="https://github.com/keremkoseoglu/vibhaga">Vibhaga</a> <sub><sup>- Dynamic Python module loader</sup></sub>
     </td>
     <td>
@@ -106,6 +105,7 @@ Repository Index
   <tr>
     <td>SAP</td>
     <td>
+        ⭐️ <a href="https://github.com/keremkoseoglu/ABAP-Library">ABAP Library</a> <sub><sup>- Useful ABAP classes</sup></sub><br>
       ⭐️ <a href="https://github.com/keremkoseoglu/Joseki">Joseki</a> <sub><sup>- ABAP code generator</sup></sub>
     </td>
     <td>
