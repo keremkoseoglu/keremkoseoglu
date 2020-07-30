@@ -69,13 +69,13 @@ Repository Index
   <tr>
     <td>Library</td>
     <td>
-        ⭐️ <a href="https://github.com/keremkoseoglu/vibhaga">Vibhaga</a> <sub><sup>- Dynamic Python module loader</sup></sub>
+        ⭐️ <a href="https://github.com/keremkoseoglu/vibhaga">Vibhaga</a> <sub><sup>- Dynamic Python module loader</sup></sub><br>
+        ⭐️ <a href="https://github.com/keremkoseoglu/Swift-Library">Swift Library</a> <sub><sup>- GUI, HTTP, Location, Telegram</sup></sub><br>
     </td>
     <td>
       <a href="https://github.com/keremkoseoglu/AppleScript-Library">AppleScript Library</a>, 
       <a href="https://github.com/keremkoseoglu/helloku">Helloku</a>, 
-      <a href="https://github.com/keremkoseoglu/Python-Library">Python Library</a>, 
-      <a href="https://github.com/keremkoseoglu/Swift-Library">Swift Library</a>
+      <a href="https://github.com/keremkoseoglu/Python-Library">Python Library</a>
     </td>
   </tr>
   <tr>
