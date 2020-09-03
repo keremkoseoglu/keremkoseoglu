@@ -69,6 +69,7 @@ Repository Index
   <tr>
     <td>Library</td>
     <td>
+        ⭐️ <a href="https://github.com/keremkoseoglu/incubus">Incubus</a> <sub><sup>- Idle app closer</sup></sub><br>
         ⭐️ <a href="https://github.com/keremkoseoglu/vibhaga">Vibhaga</a> <sub><sup>- Dynamic Python module loader</sup></sub><br>
         ⭐️ <a href="https://github.com/keremkoseoglu/Swift-Library">Swift Library</a> <sub><sup>- GUI, HTTP, Location, Telegram</sup></sub><br>
     </td>
@@ -84,7 +85,6 @@ Repository Index
       ⭐️ <a href="https://github.com/keremkoseoglu/flukebox">FlukeBox</a> <sub><sup>- Cross-stream music player</sup></sub><br>
       ⭐️ <a href="https://github.com/keremkoseoglu/Guitar-Training-Remote">Guitar Training Remote</a> <sub><sup>- Random guitar exercises</sup></sub><br>
       ⭐️ <a href="https://github.com/keremkoseoglu/igigi">Igigi</a> <sub><sup>- Gig helper app</sup></sub><br>
-      ⭐️ <a href="https://github.com/keremkoseoglu/incubus">Incubus</a> <sub><sup>- Idle app closer</sup></sub><br>
       ⭐️ <a href="https://github.com/keremkoseoglu/Setlist-Generator">SetList Generator</a> <sub><sup>- Gig setlist creation</sup></sub>
     </td>
     <td>
