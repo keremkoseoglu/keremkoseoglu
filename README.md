@@ -109,6 +109,7 @@ Repository Index
       ⭐️ <a href="https://github.com/keremkoseoglu/ABAP-Library">ABAP Library</a> <sub><sup>- Useful ABAP classes</sup></sub><br>
       ⭐️ <a href="https://github.com/keremkoseoglu/Joseki">Joseki</a> <sub><sup>- ABAP code generator</sup></sub><br>
       ⭐️ <a href="https://github.com/keremkoseoglu/sg4j">SG4J</a> <sub><sup>- SAP GUI For Java launcher</sup></sub><br>
+      ⭐️ <a href="https://github.com/keremkoseoglu/simbal">Simbal</a> <sub><sup>- Simple application log</sup></sub><br>
     </td>
     <td>
       <a href="https://github.com/keremkoseoglu/ama">Ama</a>, 
