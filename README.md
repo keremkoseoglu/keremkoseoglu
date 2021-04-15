@@ -70,7 +70,8 @@ Repository Index
     <td>Library</td>
     <td>
         ⭐️ <a href="https://github.com/keremkoseoglu/incubus">Incubus</a> <sub><sup>- Idle app closer</sup></sub><br>
-      ⭐️ <a href="https://github.com/keremkoseoglu/luta">Luta</a> <sub><sup>- Web spider</sup></sub><br>
+        ⭐️ <a href="https://github.com/keremkoseoglu/luta">Luta</a> <sub><sup>- Web spider</sup></sub><br>
+        ⭐️ <a href="https://github.com/keremkoseoglu/sahibinden">Sahibinden</a> <sub><sup>- Web spider for sahibinden.com</sup></sub><br>
         ⭐️ <a href="https://github.com/keremkoseoglu/Swift-Library">Swift Library</a> <sub><sup>- GUI, HTTP, Location, Telegram</sup></sub><br>
         ⭐️ <a href="https://github.com/keremkoseoglu/vibhaga">Vibhaga</a> <sub><sup>- Dynamic Python module loader</sup></sub><br>
     </td>
