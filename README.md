@@ -121,6 +121,7 @@ Repository Index
       <a href="https://github.com/keremkoseoglu/DaTag">DaTag</a>, 
       <a href="https://github.com/keremkoseoglu/ILPD">iLPD</a>, 
       <a href="https://github.com/keremkoseoglu/LightCount">LightCount</a>, 
+      <a href="https://github.com/keremkoseoglu/rapmaf_frontend">MAF (RAP Demo)</a>, 
       <a href="https://github.com/keremkoseoglu/sapFIN">SapFin</a>, 
       <a href="https://github.com/keremkoseoglu/SAPrim">SAPrim</a>, 
       <a href="https://github.com/keremkoseoglu/soti">Soti</a>
