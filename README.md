@@ -86,11 +86,10 @@ Repository Index
     <td>
       ⭐️ <a href="https://github.com/keremkoseoglu/flukebox">FlukeBox</a> <sub><sup>- Cross-stream music player</sup></sub><br>
       ⭐️ <a href="https://github.com/keremkoseoglu/Guitar-Training-Remote">Guitar Training Remote</a> <sub><sup>- Random guitar exercises</sup></sub><br>
-      ⭐️ <a href="https://github.com/keremkoseoglu/igigi">Igigi</a> <sub><sup>- Gig helper app</sup></sub><br>
       ⭐️ <a href="https://github.com/keremkoseoglu/Setlist-Generator">SetList Generator</a> <sub><sup>- Gig setlist creation</sup></sub>
     </td>
     <td>
-      <a href="https://github.com/keremkoseoglu/JTranspose">JTranspose</a>
+      <a href="https://github.com/keremkoseoglu/igigi">Igigi</a>, <a href="https://github.com/keremkoseoglu/JTranspose">JTranspose</a>
     </td>
   </tr>
   <tr>
