@@ -4,9 +4,9 @@ I am a freelance [software architect](https://www.sap-press.com/design-patterns-
 
 I mostly code in ABAP, Python and JavaScript nowadays.
 
-I have [published books](https://keremkoseoglu.com/books/) on programming and [give trainings](https://keremkoseoglu.com/seminars/teaching-software/) too. 
+I have [published books](https://keremkoseoglu.com) on programming and [give trainings](https://keremkoseoglu.com) too. 
 
-You can check [my detailed profile](https://keremkoseoglu.com/software/) or stalk me on [social media](https://keremkoseoglu.com).
+You can check [my website](https://keremkoseoglu.com) or stalk me on [social media](https://keremkoseoglu.com).
 
 Repository Index
 ------
