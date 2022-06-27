@@ -2,7 +2,7 @@
 
 I am a freelance [software architect](https://www.sap-press.com/design-patterns-in-abap-objects_4277/), coding since 1988 and pro since 2000. 
 
-I mostly code in ABAP, Python and JavaScript nowadays.
+I mostly code in ABAP, Python, JavaScript and Swift nowadays.
 
 I have [published books](https://keremkoseoglu.com) on programming and [give trainings](https://keremkoseoglu.com) too. 
 
