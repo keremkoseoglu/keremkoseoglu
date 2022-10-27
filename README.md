@@ -56,12 +56,12 @@ Repository Index
   <tr>
     <td>Jira</td>
     <td>
-      ⭐️ <a href="https://github.com/keremkoseoglu/Jira2Notion">Jira2Notion</a> <sub><sup>- Jira - Notion integration</sup></sub><br>
       ⭐️ <a href="https://github.com/keremkoseoglu/Jiraffe">Jiraffe</a> <sub><sup>- Jira filter notifier</sup></sub>
     </td>
     <td>
       <a href="https://github.com/keremkoseoglu/Jira2Evernote">Jira2Evernote</a>, 
       <a href="https://github.com/keremkoseoglu/Jira2Notes">Jira2Notes</a>,
+      <a href="https://github.com/keremkoseoglu/Jira2Notion">Jira2Notion</a>,
       <a href="https://github.com/keremkoseoglu/Jira2Trello">Jira2Trello</a>, 
       <a href="https://github.com/keremkoseoglu/TugTime">TugTime</a>
     </td>
