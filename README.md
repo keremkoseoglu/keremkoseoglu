@@ -131,6 +131,7 @@ Repository Index
       ⭐️ <a href="https://github.com/keremkoseoglu/yogaflow">YogaFlow</a> <sub><sup>- Yoga flow generator</sup></sub>
     </td>
     <td>
+      <a href="https://github.com/keremkoseoglu/earthquake-astrology">Earthquake - Astrology</a>, 
       <a href="https://github.com/keremkoseoglu/Hooly-Search">Hooly Search</a>, 
       <a href="https://github.com/keremkoseoglu/Huruf">Huruf</a>
     </td>
