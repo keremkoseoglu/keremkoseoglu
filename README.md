@@ -120,6 +120,7 @@ Repository Index
       ⭐️ <a href="https://github.com/keremkoseoglu/addict">Addict</a> <sub><sup>- ABAP development & dictionary</sup></sub><br>
       ⭐️ <a href="https://github.com/keremkoseoglu/sg4j">SG4J</a> <sub><sup>- SAP GUI For Java launcher</sup></sub><br>
       ⭐️ <a href="https://github.com/keremkoseoglu/simbal">Simbal</a> <sub><sup>- Simple application log</sup></sub><br>
+      ⭐️ <a href="https://github.com/keremkoseoglu/ticksys">Text Element Search</a> <sub><sup>- Self explanatory</sup></sub><br>
       ⭐️ <a href="https://github.com/keremkoseoglu/ticksys">TickSys</a> <sub><sup>- Ticketing system integration framework</sup></sub><br>
     </td>
     <td>
