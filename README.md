@@ -103,12 +103,12 @@ Repository Index
     <td>Personal</td>
     <td>
       ⭐️ <a href="https://github.com/keremkoseoglu/Kifu">Kifu</a> <sub><sup>- Timesheet & invoice</sup></sub><br>
-      ⭐️ <a href="https://github.com/keremkoseoglu/kutapada">Kutapada</a> <sub><sup>- Password manager</sup></sub>
       </ul>
     </td>
     <td>
       <sub><sup>
       <a href="https://github.com/keremkoseoglu/Airlocker">Airlocker</a>,
+      <a href="https://github.com/keremkoseoglu/kutapada">Kutapada</a>,
       <a href="https://github.com/keremkoseoglu/MobileMerge">MobileMerge</a>
       </sup></sub>
     </td>
