@@ -114,6 +114,15 @@ Repository Index
     </td>
   </tr>
   <tr>
+    <td>Publications</td>
+    <td>
+      ⭐️ <a href="https://github.com/keremkoseoglu/spma-2024-09">Modern ABAP 2024</a> <sub><sup>- Course with SAP Press</sup></sub><br>
+      ⭐️ <a href="https://github.com/keremkoseoglu/sql">SQL: The Practical Guide</a> <sub><sup>- Book with SAP Press</sup></sub><br>
+      </ul>
+    </td>
+    <td>
+  </tr>
+  <tr>
     <td>SAP</td>
     <td>
       ⭐️ <a href="https://github.com/keremkoseoglu/ABAP-Library">ABAP Library</a> <sub><sup>- Useful ABAP classes</sup></sub><br>
