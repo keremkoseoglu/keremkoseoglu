@@ -118,6 +118,7 @@ Repository Index
     <td>
       ⭐️ <a href="https://github.com/keremkoseoglu/spma-2024-09">Modern ABAP 2024</a> <sub><sup>- Course with SAP Press</sup></sub><br>
       ⭐️ <a href="https://github.com/keremkoseoglu/spma-2025-08">Modern ABAP 2025</a> <sub><sup>- Course with SAP Press</sup></sub><br>
+      ⭐️ <a href="https://github.com/keremkoseoglu/sput-2026-01">ABAP Unit Testing 2026</a> <sub><sup>- Course with SAP Press</sup></sub><br>
       ⭐️ <a href="https://github.com/keremkoseoglu/sql">SQL: The Practical Guide</a> <sub><sup>- Book with SAP Press</sup></sub><br>
       ⭐️ <a href="https://github.com/keremkoseoglu/swift">Swift: The Practical Guide</a> <sub><sup>- Book with SAP Press</sup></sub><br>
       </ul>
