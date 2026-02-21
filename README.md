@@ -101,13 +101,11 @@ Repository Index
   </tr>
   <tr>
     <td>Personal</td>
-    <td>
-      ⭐️ <a href="https://github.com/keremkoseoglu/Kifu">Kifu</a> <sub><sup>- Timesheet & invoice</sup></sub><br>
-      </ul>
-    </td>
+    <td>-</td>
     <td>
       <sub><sup>
       <a href="https://github.com/keremkoseoglu/Airlocker">Airlocker</a>,
+      <a href="https://github.com/keremkoseoglu/Kifu">Kifu</a>,
       <a href="https://github.com/keremkoseoglu/kutapada">Kutapada</a>,
       <a href="https://github.com/keremkoseoglu/MobileMerge">MobileMerge</a>
       </sup></sub>
