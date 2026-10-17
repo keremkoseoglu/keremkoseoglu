@@ -45,6 +45,7 @@ Repository Index
     <td>
       <sub><sup>
       Cozcuk (<a href="https://github.com/keremkoseoglu/cozcuk-generator">Generator</a>, <a href="https://github.com/keremkoseoglu/cozcuk-gui">GUI</a>, <a href="https://github.com/keremkoseoglu/cozcuk-server">Server</a>), 
+      <a href="https://github.com/keremkoseoglu/cozcuk">Cozcuk iOS</a>,
       <a href="https://github.com/keremkoseoglu/Fart-O-Meter">Fart-o-Meter</a>,
       <a href="https://github.com/keremkoseoglu/MasterMindSolver">MasterMindSolver</a>, 
       <a href="https://github.com/keremkoseoglu/NumberXX">Number XX</a>, 
